@@ -1,0 +1,8 @@
+plant_id,total_units_shipped,daily_capacity,utilization_ratio,utilization_status
+PLANT03,28611617,1013,28244.4393,Over-utilized
+PLANT09,223830,11,20348.1818,Over-utilized
+PLANT08,277008,14,19786.2857,Over-utilized
+PLANT16,245133,457,536.3961,Over-utilized
+PLANT12,112000,209,535.8852,Over-utilized
+PLANT13,43379,490,88.5286,Over-utilized
+PLANT04,348,554,0.6282,Under-utilized
